@@ -1,1 +1,1 @@
-permalink: /myPage.html
+permalink: /index.html
